@@ -13,7 +13,7 @@ int main() {
     //          break;          
     //      }
     //    }
-    S
+    
     //    if (asalMi) {
     //        cout << i << " asal sayidir\n";
     //    }
